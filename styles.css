@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Figtree';
-    src: url('assets/fonts/Figtree-VariableFont_wght.ttf');
+    src: url('Figtree-VariableFont_wght.ttf');
 }
 
 @font-face {
     font-family: 'FigTree__Italic';
-    src: url('assets/fonts/Figtree-Italic-VariableFont_wght.ttf');
+    src: url('Figtree-Italic-VariableFont_wght.ttf');
 }
 
 :root{
